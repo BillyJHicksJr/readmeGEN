@@ -6,13 +6,6 @@
 
 simple readme generator
 
-## Table of contents
-
-- [Description](#Description)
-- [Repository Link](#Repository)
-- [GitHub Info](#GitHub) 
-
-
 
 ## GitHub
 
