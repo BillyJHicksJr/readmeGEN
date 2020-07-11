@@ -1,5 +1,5 @@
 
-# **billys readme gen**
+# **billy's readme generator**
 
 
 ## Description 
