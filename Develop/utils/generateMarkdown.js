@@ -8,13 +8,6 @@ function generateMarkdown(data, githubInfo) {
 
 ${data.description}
 
-## Table of contents
-
-- [Description](#Description)
-- [Repository Link](#Repository)
-- [GitHub Info](#GitHub) 
-
-
 
 ## GitHub
 
